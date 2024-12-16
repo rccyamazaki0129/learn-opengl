@@ -1,1 +1,1 @@
-# opengl-fluid-sim
+# learn-opengl
